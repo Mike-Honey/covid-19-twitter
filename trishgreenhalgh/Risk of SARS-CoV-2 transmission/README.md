@@ -6,5 +6,7 @@
 
 [Amharic (Ethiopian)](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission-%20Amharic%20(Ethiopian).jpg)
 
+[Arabic](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission-%Arabic.jpg)
+
 [English](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission-%20English.jpg)
 
