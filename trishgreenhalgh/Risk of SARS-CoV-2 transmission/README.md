@@ -4,9 +4,9 @@
 
 ## The diagrams submitted, by Language name:
 
-[Amharic (Ethiopian)](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission-%20Amharic%20(Ethiopian).jpg)
+[Amharic (Ethiopian)](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission%20-%20Amharic%20(Ethiopian).jpg)
 
-[Arabic](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission-%Arabic.jpg)
+[Arabic](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission%20-%Arabic.jpg)
 
-[English](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission-%20English.jpg)
+[English](/trishgreenhalgh/Risk%20of%20SARS-CoV-2%20transmission/Risk%20of%20SARS-CoV-2%20transmission%20-%20English.jpg)
 
