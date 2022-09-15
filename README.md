@@ -8,3 +8,6 @@ An archive of key covid-19 threads from Twitter. Saved here for archive and sear
 
 ## [Prof Cath Noakes](/cathnoakes/README.md)
 
+## [Dr. Jeff Gilchrist, PhD](/jeffgilchrist/README.md)
+
+## [Dr. Deepti Gurdasani](/dgurdasani1/README.md)
